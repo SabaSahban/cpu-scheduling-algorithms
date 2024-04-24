@@ -1,3 +1,2 @@
 # cpu-scheduling-algorithms
-Implementing CPU scheduling algorithms 
-## Operating Systems TA class
+Implementing CPU scheduling algorithms for Operating systems TA class 
